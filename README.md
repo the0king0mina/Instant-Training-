@@ -34,6 +34,7 @@ these ready-to-use notebooks help you learn, prototype, and deploy powerful AI s
 | **Brain Tumor MRI Detection Using CNN** | Classify MRI scans for tumor presence via CNN models. |
 | **Recommendation Movies Systems** | Build movie recommender systems using collaborative and pretrained models. |
 | **Hand landmarks detection** | Make Hand landmarks detections using Mediapipline. |
+| **DataScience Churn Bank Project** | Full Data Science Project Of Bank Churn. |
 
 ---
 
