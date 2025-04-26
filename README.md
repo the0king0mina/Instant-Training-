@@ -33,6 +33,7 @@ these ready-to-use notebooks help you learn, prototype, and deploy powerful AI s
 | **Breast Cancer Classification by Computer Vision** | Early cancer detection using CNNs and medical imaging. |
 | **Brain Tumor MRI Detection Using CNN** | Classify MRI scans for tumor presence via CNN models. |
 | **Recommendation Movies Systems** | Build movie recommender systems using collaborative and pretrained models. |
+| **Hand landmarks dection ** | Make Hand landmarks detections using Mediapipline. |
 
 ---
 
